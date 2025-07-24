@@ -69,11 +69,3 @@ HDB_Price_Prediction/
 
 - Data Source: [Singapore HDB Resale Data (data.gov.sg)](https://data.gov.sg)
 - Libraries: `randomForest`, `caret`, `e1071`, `Hmisc`, `dplyr`, `ggplot2`
-
----
-
-## 📬 Author
-
-**Goyeun Yun**  
-Regulatory Affairs & Data Analytics | Georgia Tech OMS Analytics  
-GitHub: [@goneyak](https://github.com/goneyak)
